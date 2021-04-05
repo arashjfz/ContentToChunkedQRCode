@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SequencePresenter": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\extraction"
+    }
+  }
+}

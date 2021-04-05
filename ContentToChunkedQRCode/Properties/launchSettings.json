@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ContentToChunkedQRCode": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\storiesLoader.js"
+    }
+  }
+}
